@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Указываем порт, который будет использовать приложение
-EXPOSE 8000
+EXPOSE 8080
